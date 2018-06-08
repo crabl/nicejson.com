@@ -1,0 +1,19 @@
+{
+  "name": "nicejson.com",
+  "version": "1.0.0",
+  "description": "a web-based, privacy-focused JSON pretty printer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build --no-source-maps"
+  },
+  "keywords": [],
+  "author": "Chris Rabl <chris@crabl.net>",
+  "license": "MIT",
+  "dependencies": {
+    "json-ast": "^2.1.7",
+    "parcel-bundler": "^1.8.1"
+  }
+}
+
