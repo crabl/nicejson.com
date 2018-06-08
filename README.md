@@ -13,7 +13,7 @@ $ npm run dev
 To build the production artifacts:
 
 ```
-npm run build
+$ npm run build
 ```
 
 ## To Do List
@@ -22,4 +22,4 @@ npm run build
 - [x] privacy policy
 - [x] bundle with parcel
 - [x] open-source it on github
-  
+- [ ] ssl, i guess
