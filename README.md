@@ -1,7 +1,7 @@
 # NiceJSON.com
-## a web-based, privacy-focused JSON pretty printer
+#### a web-based, privacy-focused JSON pretty printer
 
-### Development
+## Development
 
 ```
 $ git clone git@github.com:crabl/nicejson.com.git
@@ -16,7 +16,7 @@ To build the production artifacts:
 npm run build
 ```
 
-### To Do List
+## To Do List
 
 - [x] more forgiving json parser
 - [x] privacy policy
