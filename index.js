@@ -33,6 +33,7 @@ $paste.onpaste = (event) => {
     $instructions.style.display = 'none';
     $error.style.display = 'block';
   } else {
+    $result.style.display = 'block';
     $result.innerHTML = result;
     $instructions.style.display = 'none';
     $error.style.display = 'none';
