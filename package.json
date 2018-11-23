@@ -14,6 +14,8 @@
   "dependencies": {
     "json-ast": "^2.1.7",
     "parcel-bundler": "^1.8.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.7"
   }
 }
-

@@ -37,6 +37,10 @@ a:link.muted, a:visited.muted, span.muted {
   font-size: 14px;
 }
 
+span.ideas {
+  font-size: 14px;
+}
+
 #error {
   display: none;
 }
